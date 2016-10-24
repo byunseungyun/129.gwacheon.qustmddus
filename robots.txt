@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://gwacheon.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
